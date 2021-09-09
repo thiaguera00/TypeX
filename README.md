@@ -16,7 +16,6 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 ## ❗❗ Comandos
 
 - O TypeX conta com alguns comandos
-- !type (Informa qual a função do Bot)
 - !photo (Gera um card com fotos aleatórias feito com uma API)
 - !dm (Manda uma mensagem privada)
 - O TypeX adiciona cargos também!!
