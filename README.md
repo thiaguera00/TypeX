@@ -22,4 +22,4 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 🌍 Função
 
-- O TypeX vai apagar mensagens dos usuários que digitar palavras de baixo calão ou seja palavrão <br> sendo assim deixando o servidor menos poluidos
+- O TypeX vai apagar mensagens dos usuários que digitar palavras de baixo calão ou seja palavrão <br> sendo assim deixando o servidor menos poluido
