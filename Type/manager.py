@@ -14,22 +14,22 @@ class Manager(commands.Cog):
         if message.author == self.bot.user:
             return
 
-        if "puta" in message.content:
+        if "palavrão" in message.content:
             await message.channel.send(
                 f"Por favor, {message.author.name}, não ofenda os demais usúarios!"
             )
             await message.delete()
-        elif "no cu" in message.content:
+        elif "palavrão" in message.content:
             await message.channel.send(
                 f"Por favor, {message.author.name}, não ofenda os demais usúarios!"
             )
             await message.delete()
-        elif "porra" in message.content:
+        elif "palavrão" in message.content:
             await message.channel.send(
                 f"Por favor, {message.author.name}, não ofenda os demais usúarios!"
             )
             await message.delete()
-        elif "piranha" in message.content:
+        elif "palavrão" in message.content:
             await message.channel.send(
                 f"Por favor, {message.author.name}, não ofenda os demais usúarios!"
             )
